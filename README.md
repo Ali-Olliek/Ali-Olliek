@@ -15,4 +15,4 @@
 <span> <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" width="40" height="40"> </span>
 
 ### Stats 💯
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AliOlliek&theme=onedark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ali-Olliek&theme=onedark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
