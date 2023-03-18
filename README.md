@@ -5,7 +5,7 @@
 
 ### About Me 🙋‍♂️
 
-- 👽 Hello, my name is Ali and I come in peace ✌️
+- 👽 Hello, my name is Ali ✌️
 - 📫 Reach me via <a href="mailto: Olliek95@gmail.com"> Email </a> or find me on <a href="https://www.linkedin.com/in/ali-olliek-7387ba172/"> LinkedIn </a>
 
 ### Languages and Tools 🛠️
