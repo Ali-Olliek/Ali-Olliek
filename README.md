@@ -15,7 +15,6 @@
 <span> </span>
 
 <span> <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" width="40" height="40"> </span>
-<span> <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg" width="40" height="40"> </span>
 <span> <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" width="40" height="40"> </span>
 
 <span> </span>
@@ -26,7 +25,6 @@
 <span> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="40" height="40"> </span>
 <span> <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" width="40" height="40"> </span>
 <span> <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" width="40" height="40"> </span>
-<span> <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40"> </span>
 <span> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="40" height="40"> </span>
 <span> <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" width="40" height="40"> </span>
 
